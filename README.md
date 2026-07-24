@@ -1,12 +1,12 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=210&color=0:00A86B,38:0EA5E9,72:FF6900,100:111827&text=MiToverG&fontAlign=50&fontAlignY=38&fontSize=54&fontColor=ffffff&desc=Mobile%20Devices%20%7C%20Android%20Experience%20%7C%20Clean%20Tools&descAlign=50&descAlignY=61&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=210&color=0:00A86B,38:0EA5E9,72:FF6900,100:111827&text=MiToverG&fontAlign=50&fontAlignY=46&fontSize=54&fontColor=ffffff&animation=fadeIn)
 
 <a href="https://github.com/MiToverG422">
   <img src="https://img.shields.io/badge/GitHub-MiToverG422-181717?style=for-the-badge&logo=github" alt="GitHub" />
 </a>
 <img src="https://img.shields.io/badge/Focus-Mobile%20Experience-00A86B?style=for-the-badge" alt="Mobile Experience" />
-<img src="https://img.shields.io/badge/Language-EN%20%2B%20%E7%B9%81%E4%B8%AD-0EA5E9?style=for-the-badge" alt="English and Traditional Chinese" />
+<img src="https://img.shields.io/badge/Language-%E7%AE%80%E4%B8%AD%20%2F%20%E7%B9%81%E4%B8%AD%20%2F%20EN-0EA5E9?style=for-the-badge" alt="Simplified Chinese, Traditional Chinese, and English" />
 
 </div>
 
