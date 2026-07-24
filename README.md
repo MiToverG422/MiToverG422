@@ -5,25 +5,36 @@
 <a href="https://github.com/MiToverG422">
   <img src="https://img.shields.io/badge/GitHub-MiToverG422-181717?style=for-the-badge&logo=github" alt="GitHub" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=MiToverG422&style=for-the-badge&color=0ea5e9" alt="Profile views" />
-<img src="https://img.shields.io/badge/Focus-Mobile%20Experience-00a86b?style=for-the-badge" alt="Focus" />
+<img src="https://img.shields.io/badge/Focus-Mobile%20Experience-00A86B?style=for-the-badge" alt="Mobile Experience" />
+<img src="https://img.shields.io/badge/Language-EN%20%2B%20%E7%B9%81%E4%B8%AD-0EA5E9?style=for-the-badge" alt="English and Traditional Chinese" />
 
 </div>
 
 ## Hi, I'm MiToverG
 
-我关注移动设备、系统体验和实用工具，喜欢研究不同厂商在系统交互、界面细节、性能策略和生态体验上的取舍。
+I care about mobile devices, system experience, and useful tools. I enjoy exploring how different brands shape interaction design, UI details, performance behavior, and ecosystem experience.
 
-日常更偏爱 **OPPO / OnePlus / Xiaomi / Apple** 这些设备生态，也会围绕 Android 应用、系统工具、图标资源和体验优化做一些小项目。
+我關注行動裝置、系統體驗與實用工具，也喜歡研究不同品牌在互動設計、介面細節、效能策略與生態體驗上的取捨。
 
-## What I Care About
+My favorite device ecosystems are **OPPO / OnePlus / Xiaomi / Apple**. Most of my ideas come from daily device use, Android apps, interface details, icon resources, and small tools that make phones feel better to use.
 
-- 更顺手的系统体验，而不是堆功能。
-- 更干净的界面细节，而不是复杂视觉噪声。
-- 更实用的小工具，而不是只停留在想法。
-- 不同手机厂商之间的设计语言、系统逻辑和生态差异。
+我偏好的設備生態是 **OPPO / OnePlus / Xiaomi / Apple**。很多想法都來自日常用機體驗、Android 應用、介面細節、圖示資源，以及能讓手機更好用的小工具。
 
-## Device Interests
+## What I Care About / 我關心的事
+
+- Smoother everyday system experience, not just more features.  
+  更順手的日常系統體驗，而不只是堆疊功能。
+
+- Clean UI details with less visual noise.  
+  更乾淨的介面細節，減少不必要的視覺噪音。
+
+- Practical tools that solve real device-side problems.  
+  能解決實際用機問題的實用工具。
+
+- The design language, system logic, and ecosystem differences between mobile brands.  
+  不同手機品牌之間的設計語言、系統邏輯與生態差異。
+
+## Device Interests / 喜歡的設備生態
 
 <p>
   <img src="https://img.shields.io/badge/OPPO-00A86B?style=for-the-badge&logo=oppo&logoColor=white" alt="OPPO" />
@@ -32,7 +43,7 @@
   <img src="https://img.shields.io/badge/Apple-111111?style=for-the-badge&logo=apple&logoColor=white" alt="Apple" />
 </p>
 
-## Tech Stack
+## Tech Stack / 技術棧
 
 <p>
   <img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white" alt="Android" />
@@ -43,29 +54,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MiToverG422&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&title_color=0ea5e9&text_color=334155&icon_color=ff6900" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiToverG422&layout=compact&theme=transparent&hide_border=true&title_color=0ea5e9&text_color=334155" alt="Top languages" />
-</div>
-
-## Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/MiToverG422?tab=repositories">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiToverG422&repo=MiToverG422&theme=transparent&hide_border=true&title_color=0ea5e9&text_color=334155&icon_color=00a86b" alt="Profile README" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/MiToverG422?tab=repositories">
-        <img src="https://github-readme-stats.vercel.app/api?username=MiToverG422&show_icons=true&theme=transparent&hide_border=true&hide_title=true&hide_rank=true&title_color=0ea5e9&text_color=334155&icon_color=ff6900" alt="Repositories" />
-      </a>
-    </td>
-  </tr>
-</table>
+## Projects / 專案入口
 
 <p>
   <a href="https://github.com/MiToverG422?tab=repositories">
