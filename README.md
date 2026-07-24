@@ -21,6 +21,18 @@
   <img src="https://img.shields.io/badge/Apple-111111?style=for-the-badge&logo=apple&logoColor=white" alt="Apple" />
 </p>
 
+## Device List / 设备列表 / 設備列表
+
+### Phones / 手机 / 手機
+
+| Brand | Devices |
+| --- | --- |
+| OnePlus | OnePlus 15, OnePlus 15 Global, OnePlus 13, OnePlus 12, OnePlus Ace 3 Pro, OnePlus 11, OnePlus 9 Pro, OnePlus 6T |
+| OPPO | OPPO Find X9 Ultra, OPPO Find X8s, OPPO Find X8 Pro EU |
+| Xiaomi / Redmi | Xiaomi 17 Ultra, Xiaomi 15 Ultra HK, Redmi Note 11T Pro, Redmi Note 11T Pro+ |
+| Google | Pixel 4 |
+| Apple | iPhone 17, iPhone SE 1 / 2 / 3, iPhone 6 / 6 Plus / 6s, iPhone 5 / 5s, iPhone 4 / 4s |
+
 ## Tech Stack / 技術棧
 
 <p>
