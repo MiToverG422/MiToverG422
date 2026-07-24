@@ -41,6 +41,10 @@
 </p>
 
 <p>
+  <img src="https://img.shields.io/badge/realme%20GT8%20Pro-FFC915?style=flat-square&logo=realme&logoColor=111111" alt="realme GT8 Pro" />
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Xiaomi%2017%20Ultra-FF6900?style=flat-square&logo=xiaomi&logoColor=white" alt="Xiaomi 17 Ultra" />
   <img src="https://img.shields.io/badge/Xiaomi%2015%20Ultra%20HK-FF6900?style=flat-square&logo=xiaomi&logoColor=white" alt="Xiaomi 15 Ultra HK" />
   <img src="https://img.shields.io/badge/Redmi%20Note%2011T%20Pro-FF6900?style=flat-square&logo=xiaomi&logoColor=white" alt="Redmi Note 11T Pro" />
@@ -49,10 +53,6 @@
 
 <p>
   <img src="https://img.shields.io/badge/Pixel%204-4285F4?style=flat-square&logo=google&logoColor=white" alt="Pixel 4" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/realme%20GT8%20Pro-FFC915?style=flat-square&logo=realme&logoColor=111111" alt="realme GT8 Pro" />
 </p>
 
 <p>
