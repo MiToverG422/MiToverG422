@@ -12,28 +12,6 @@
 
 ## Hi, I'm MiToverG
 
-I care about mobile devices, system experience, and useful tools. I enjoy exploring how different brands shape interaction design, UI details, performance behavior, and ecosystem experience.
-
-我關注行動裝置、系統體驗與實用工具，也喜歡研究不同品牌在互動設計、介面細節、效能策略與生態體驗上的取捨。
-
-My favorite device ecosystems are **OPPO / OnePlus / Xiaomi / Apple**. Most of my ideas come from daily device use, Android apps, interface details, icon resources, and small tools that make phones feel better to use.
-
-我偏好的設備生態是 **OPPO / OnePlus / Xiaomi / Apple**。很多想法都來自日常用機體驗、Android 應用、介面細節、圖示資源，以及能讓手機更好用的小工具。
-
-## What I Care About / 我關心的事
-
-- Smoother everyday system experience, not just more features.  
-  更順手的日常系統體驗，而不只是堆疊功能。
-
-- Clean UI details with less visual noise.  
-  更乾淨的介面細節，減少不必要的視覺噪音。
-
-- Practical tools that solve real device-side problems.  
-  能解決實際用機問題的實用工具。
-
-- The design language, system logic, and ecosystem differences between mobile brands.  
-  不同手機品牌之間的設計語言、系統邏輯與生態差異。
-
 ## Device Interests / 喜歡的設備生態
 
 <p>
