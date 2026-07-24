@@ -82,12 +82,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## Most Used Languages / 常用语言 / 常用語言
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MiToverG422&theme=github" alt="Most used languages" />
-</p>
-
 ## Projects / 專案入口
 
 <p>
