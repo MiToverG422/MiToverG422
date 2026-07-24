@@ -16,20 +16,6 @@
 
 日常更偏爱 **OPPO / OnePlus / Xiaomi / Apple** 这些设备生态，也会围绕 Android 应用、系统工具、图标资源和体验优化做一些小项目。
 
-```kotlin
-val me = developer {
-    handle = "MiToverG422"
-    focus = listOf(
-        "Mobile devices",
-        "Android apps",
-        "System experience",
-        "UI details",
-        "Practical tools"
-    )
-    favoriteBrands = listOf("OPPO", "OnePlus", "Xiaomi", "Apple")
-}
-```
-
 ## What I Care About
 
 - 更顺手的系统体验，而不是堆功能。
@@ -81,15 +67,6 @@ val me = developer {
   </tr>
 </table>
 
-## Current Direction
-
-```text
-Mobile first.
-Clean UI.
-Useful tools.
-Better everyday device experience.
-```
-
 <p>
   <a href="https://github.com/MiToverG422?tab=repositories">
     <img src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github" alt="View repositories" />
@@ -104,4 +81,3 @@ Better everyday device experience.
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00A86B,38:0EA5E9,72:FF6900,100:111827)
 
 </div>
-
