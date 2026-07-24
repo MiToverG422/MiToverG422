@@ -4,9 +4,7 @@
 
 <a href="https://github.com/MiToverG422">
   <img src="https://img.shields.io/badge/GitHub-MiToverG422-181717?style=for-the-badge&logo=github" alt="GitHub" />
-</a>
-<img src="https://img.shields.io/badge/Focus-Mobile%20Experience-00A86B?style=for-the-badge" alt="Mobile Experience" />
-<img src="https://img.shields.io/badge/Language-%E7%AE%80%E4%B8%AD%20%2F%20%E7%B9%81%E4%B8%AD%20%2F%20EN-0EA5E9?style=for-the-badge" alt="Simplified Chinese, Traditional Chinese, and English" />
+  <img src="https://img.shields.io/badge/Language-%E7%AE%80%E4%B8%AD%20%2F%20%E7%B9%81%E4%B8%AD%20%2F%20EN-0EA5E9?style=for-the-badge" alt="Simplified Chinese, Traditional Chinese, and English" />
 
 </div>
 
