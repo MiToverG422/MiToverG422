@@ -23,15 +23,41 @@
 
 ## Device List / 设备列表 / 設備列表
 
-### Phones / 手机 / 手機
+<p>
+  <img src="https://img.shields.io/badge/OnePlus%2015-F5010C?style=flat-square&logo=oneplus&logoColor=white" alt="OnePlus 15" />
+  <img src="https://img.shields.io/badge/OnePlus%2015%20Global-F5010C?style=flat-square&logo=oneplus&logoColor=white" alt="OnePlus 15 Global" />
+  <img src="https://img.shields.io/badge/OnePlus%2013-F5010C?style=flat-square&logo=oneplus&logoColor=white" alt="OnePlus 13" />
+  <img src="https://img.shields.io/badge/OnePlus%2012-F5010C?style=flat-square&logo=oneplus&logoColor=white" alt="OnePlus 12" />
+  <img src="https://img.shields.io/badge/OnePlus%20Ace%203%20Pro-F5010C?style=flat-square&logo=oneplus&logoColor=white" alt="OnePlus Ace 3 Pro" />
+  <img src="https://img.shields.io/badge/OnePlus%2011-F5010C?style=flat-square&logo=oneplus&logoColor=white" alt="OnePlus 11" />
+  <img src="https://img.shields.io/badge/OnePlus%209%20Pro-F5010C?style=flat-square&logo=oneplus&logoColor=white" alt="OnePlus 9 Pro" />
+  <img src="https://img.shields.io/badge/OnePlus%206T-F5010C?style=flat-square&logo=oneplus&logoColor=white" alt="OnePlus 6T" />
+</p>
 
-| Brand | Devices |
-| --- | --- |
-| OnePlus | OnePlus 15, OnePlus 15 Global, OnePlus 13, OnePlus 12, OnePlus Ace 3 Pro, OnePlus 11, OnePlus 9 Pro, OnePlus 6T |
-| OPPO | OPPO Find X9 Ultra, OPPO Find X8s, OPPO Find X8 Pro EU |
-| Xiaomi / Redmi | Xiaomi 17 Ultra, Xiaomi 15 Ultra HK, Redmi Note 11T Pro, Redmi Note 11T Pro+ |
-| Google | Pixel 4 |
-| Apple | iPhone 17, iPhone SE 1 / 2 / 3, iPhone 6 / 6 Plus / 6s, iPhone 5 / 5s, iPhone 4 / 4s |
+<p>
+  <img src="https://img.shields.io/badge/OPPO%20Find%20X9%20Ultra-00A86B?style=flat-square&logo=oppo&logoColor=white" alt="OPPO Find X9 Ultra" />
+  <img src="https://img.shields.io/badge/OPPO%20Find%20X8s-00A86B?style=flat-square&logo=oppo&logoColor=white" alt="OPPO Find X8s" />
+  <img src="https://img.shields.io/badge/OPPO%20Find%20X8%20Pro%20EU-00A86B?style=flat-square&logo=oppo&logoColor=white" alt="OPPO Find X8 Pro EU" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Xiaomi%2017%20Ultra-FF6900?style=flat-square&logo=xiaomi&logoColor=white" alt="Xiaomi 17 Ultra" />
+  <img src="https://img.shields.io/badge/Xiaomi%2015%20Ultra%20HK-FF6900?style=flat-square&logo=xiaomi&logoColor=white" alt="Xiaomi 15 Ultra HK" />
+  <img src="https://img.shields.io/badge/Redmi%20Note%2011T%20Pro-FF6900?style=flat-square&logo=xiaomi&logoColor=white" alt="Redmi Note 11T Pro" />
+  <img src="https://img.shields.io/badge/Redmi%20Note%2011T%20Pro%2B-FF6900?style=flat-square&logo=xiaomi&logoColor=white" alt="Redmi Note 11T Pro+" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Pixel%204-4285F4?style=flat-square&logo=google&logoColor=white" alt="Pixel 4" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/iPhone%2017-111111?style=flat-square&logo=apple&logoColor=white" alt="iPhone 17" />
+  <img src="https://img.shields.io/badge/iPhone%20SE%201%20%2F%202%20%2F%203-111111?style=flat-square&logo=apple&logoColor=white" alt="iPhone SE 1 / 2 / 3" />
+  <img src="https://img.shields.io/badge/iPhone%206%20%2F%206%20Plus%20%2F%206s-111111?style=flat-square&logo=apple&logoColor=white" alt="iPhone 6 / 6 Plus / 6s" />
+  <img src="https://img.shields.io/badge/iPhone%205%20%2F%205s-111111?style=flat-square&logo=apple&logoColor=white" alt="iPhone 5 / 5s" />
+  <img src="https://img.shields.io/badge/iPhone%204%20%2F%204s-111111?style=flat-square&logo=apple&logoColor=white" alt="iPhone 4 / 4s" />
+</p>
 
 ## Tech Stack / 技術棧
 
