@@ -52,6 +52,10 @@
 </p>
 
 <p>
+  <img src="https://img.shields.io/badge/realme%20GT8%20Pro-FFC915?style=flat-square&logo=realme&logoColor=111111" alt="realme GT8 Pro" />
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/iPhone%2017-111111?style=flat-square&logo=apple&logoColor=white" alt="iPhone 17" />
   <img src="https://img.shields.io/badge/iPhone%20SE%201%20%2F%202%20%2F%203-111111?style=flat-square&logo=apple&logoColor=white" alt="iPhone SE 1 / 2 / 3" />
   <img src="https://img.shields.io/badge/iPhone%206%20%2F%206%20Plus%20%2F%206s-111111?style=flat-square&logo=apple&logoColor=white" alt="iPhone 6 / 6 Plus / 6s" />
