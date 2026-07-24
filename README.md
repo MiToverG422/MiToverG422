@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Apple-111111?style=for-the-badge&logo=apple&logoColor=white" alt="Apple" />
 </p>
 
-## Device List / 设备列表 / 設備列表
+## Device List / 設備列表
 
 <p>
   <img src="https://img.shields.io/badge/OnePlus%2015-F5010C?style=flat-square&logo=oneplus&logoColor=white" alt="OnePlus 15" />
